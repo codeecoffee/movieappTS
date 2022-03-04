@@ -56,4 +56,4 @@ const tmdbApi ={
   
 }
 
-export default tmdbApi
+export default tmdbApi;
